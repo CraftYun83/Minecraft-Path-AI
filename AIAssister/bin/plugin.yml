@@ -1,0 +1,14 @@
+name: AI Assister
+main: com.fourmc.aiassister.Main
+author: FourMC
+version: 1.0
+
+commands:
+  setLocation:
+    description: Sets the location of the checkpoints
+  setServer:
+    description: Sets the url requests are sent to
+  removeLocation:
+    description: Removes checkpoints
+  toggleCollecting:
+    description: Toggle whether it starts to collect data
